@@ -20,8 +20,4 @@
   ![alt text](https://github.com/n5hossai/DNN-Digit-Classifier/blob/main/traingss.png)
 
 
-- Testing the model
-
-  ![alt text](https://github.com/n5hossai/DNN-Digit-Classifier/blob/main/testingss.png)
-
 - Then we use numpy to understand our prediction 
